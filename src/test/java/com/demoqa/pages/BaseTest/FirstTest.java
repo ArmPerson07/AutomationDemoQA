@@ -1,4 +1,4 @@
-package com.demoqa.BaseTest;
+package com.demoqa.pages.BaseTest;
 
 import com.codeborne.selenide.Configuration;
 import org.junit.jupiter.api.Test;
